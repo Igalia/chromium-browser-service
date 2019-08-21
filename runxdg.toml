@@ -13,7 +13,6 @@ method = "POSIX"
 path = "/opt/chromium68/chrome"
 
 params = [
-  "--in-process-gpu",
   "--no-sandbox"
 ]
 
